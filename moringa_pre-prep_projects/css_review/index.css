@@ -1,0 +1,36 @@
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: blue;
+    color: lawngreen;
+    margin-left: 38px;
+    padding: 20px 0px 20px 0px;
+  }
+  img {
+    background-color: hotpink;
+
+   float: right;
+    margin: 0px 10px 20px 0px;
+    padding: 10px;
+  }
+  li {
+      background-color: chocolate;
+    overflow: auto;
+    clear: both;
+    margin: 10px 0px 10px 0px;
+  }
+  a {
+    display: block;
+  }
+  
+  a:hover {
+    color: green;
+    font-size: x-large;
+  }
+  h3{
+      font-family: 'Courier New', Courier, monospace;
+      color: maroon;
+  }
+  p{
+      font-family: 'Times New Roman', Times, serif;
+      color: pink;
+  }
